@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+.head{
+	background-color:rgb(236, 100, 75);
+	color:white;
+	
+}
+table {
+  border-collapse: collapse;
+  width: 100%; 
+}
+th, td {
+  border: 1px solid black; 
+  padding: 10px 15px; 
+  text-align: left; 
+}
